@@ -1,1 +1,1 @@
-# DSI_rpp3_notes
+# Galvanize Remote DSI Notes
